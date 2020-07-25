@@ -1,5 +1,5 @@
 # Esqueleto_Tab_Navigator
-Esqueleto de aplicativo básico com Tab Navigator e Stack Navigator
+Esqueleto de aplicativo básico com Tab Navigator e Stack Navigator utilizando o React Navigation 5x
 
 Projeto completo.
 1 - Baixe o projeto
